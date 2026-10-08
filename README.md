@@ -1,6 +1,6 @@
 # Formula-1-Engine-Simulator
 
-[Space Destroyer Game - Google Slides](https://docs.google.com/presentation/d/17_DAtIQvywoFSsHqjK8iKNxvyVcOsvedLOcB2KJyPus/edit?usp=sharing)
+[Formula 1 Engine Simulator - Google Slides](https://docs.google.com/presentation/d/17_DAtIQvywoFSsHqjK8iKNxvyVcOsvedLOcB2KJyPus/edit?usp=sharing)
 
 A bare-metal C application that simulates vehicle powertrain physics and renders a real-time Formula 1-style digital heads-up display via VGA. Designed for the DE1-SoC FPGA board, the system features a custom physics loop handling gear ratios, engine torque curves, and overheating, alongside memory-mapped audio feedback and hardware interrupts.
 
